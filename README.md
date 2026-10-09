@@ -2,6 +2,12 @@
 
 A compact Godot 4 scene for exploring the nine articulated joints of a Bittle-style quadruped robot.
 
+![Bittle Joint Simulator showing the robot, floor grid, and servo controls](docs/screenshots/bittle-joint-simulator.png)
+
+## Run
+
+Open the project in Godot 4 and run the main scene, or start it from the repository root with `godot --path .`.
+
 ## Controls
 
 - Use the on-screen sliders to rotate the head, hip, and knee servos.
